@@ -18,6 +18,10 @@ I\`ve been learning to code as a passion, after switching careers. I started wit
 src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>
 ### Skills
 
+##### Profile Visits
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+                
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
