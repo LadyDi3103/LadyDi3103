@@ -7,9 +7,13 @@
 <p align="center">
 <samp>I`ve been learning to code as a passion, after switching careers. I started with HTML,CSS, & JAVASCRIPT,
 but have really found interesting what is behind the code, now working with FIREBASE and SPA.
+ <hr> 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em></samp><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
    <br> <br>
   <img src="https://komarev.com/ghpvc/?username=LadyDi3103" alt="https://github.com/LadyDi3103" />
+  <a href="https://www.github.com/LadyDi3103" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>
+  
 </p>  
 
 <h3> About me 🤓 </h3>
@@ -22,14 +26,10 @@ but have really found interesting what is behind the code, now working with FIRE
 * 🔥  I really love the thrill of making what I want possible!!!
 * 🤝  I'm open to collaborate on Interesting challenging Proyects 
 
-<h3  align="center">📫 Reach me on</h2>
+<h3  align="center">📫 Reach me on</h3>
   <p align='center'>
    <a target="_blank" href="https://www.linkedin.com/in/lady-diana-quispe-aab12a92/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="mailto: chinamy2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <p align="center">
-    <a href="https://www.github.com/LadyDi3103" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>&nbsp;&nbsp;
-  </p>
 </div>
 
 <h3> Skills 💻</h3>
@@ -58,7 +58,6 @@ src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-th
 
 <a href="https://github.com/LadyDi3103" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadyDi3103&langs_count=10&title_color=ec4899&text_color=0891b2&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<br>
 <br>
 <hr>
 <p align="center">
