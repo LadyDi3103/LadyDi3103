@@ -1,24 +1,27 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diana Quispe
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif width="30") I`m Diana Quispe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media2.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif" width="230">
 ====================================================================================================================================
 
-Web Developer
+Frontend Developer
 -------------
 
 I\`ve been learning to code as a passion, after switching careers. I started with HTML,CSS, AND JAVASCRIPT, but have really found interesting what is behind the code, now working with FIREBASE and SPA.
 
-* 🌍  I'm based in PERÚ :flag_pe: -Lima
+* 🌍  I'm based in PERÚ-Lima
 * 🖥️  See my portfolio at [LadyDi3103](http://github.com/LadyDi3103?tab=repositories)
 * ✉️  You can contact me at [chinamy2004@gmail.com](mailto:chinamy2004@gmail.com)
 * 🚀  I'm currently working on [Social Network](http://https://github.com/LadyDi3103/DEV005-social-network)
 * 🧠  I'm currently Learning FIREBASE, SPA and VITE.
 * 🤝  I'm open to collaborate on Interesting challenging Proyects 😄
-* ⚡  I love learning new technologies as a self-educated girl.
+* ⚡  I love learning new technologies as a self-taught girl 🤓
 
+##### Profile Visits ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LadyDi3103)
 <a href="https://www.github.com/LadyDi3103" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>
-##### Profile Visits
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=LadyDi3103)
+src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a> 
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
 ### Skills
 
 <p align="left">
@@ -36,7 +39,6 @@ src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/LadyDi3103" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
