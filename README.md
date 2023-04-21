@@ -1,4 +1,4 @@
-<h1 align='center'>Hi!👋 I`m Diana Quispe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align='center'> <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Hi!👋 I`m Diana Quispe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://media2.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif" width="230">
 
 <div align='center'>
@@ -12,22 +12,24 @@ src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-th
   </p>
 </div>
 
-<h2 align='center'><b>Frontend Developer </b><img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='40'></h2>
+<h2 align='center'><b>Frontend Developer </b><img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='50'></h2>
 <h4 align="center">
-I\`ve been learning to code as a passion, after switching careers. I started with HTML,CSS, AND JAVASCRIPT,
+I`ve been learning to code as a passion, after switching careers. I started with HTML,CSS, & JAVASCRIPT,
 but have really found interesting what is behind the code, now working with FIREBASE and SPA.
 </h4>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🙌</em>
+<h4>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+</h4>
 
-<h3> About me <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h3>
+<h3> About me 🤓 </h3>
 
 * 🌍  I'm based in PERÚ-Lima
 * 🖥️  See my portfolio at [LadyDi3103](http://github.com/LadyDi3103?tab=repositories)
 * 🚀  I'm currently working on [Social Network](http://https://github.com/LadyDi3103/DEV005-social-network)
 * 🧠  I'm currently Learning FIREBASE, SPA and VITE.
-* ⚡  I love learning new technologies as a self-taught girl 🤓
+* ⚡  I love learning new technologies as a self-taught girl
 * 🔥  I really love the thrill of making what I want possible!!!
-* 🤝  I'm open to collaborate on Interesting challenging Proyects 😄
+* 🤝  I'm open to collaborate on Interesting challenging Proyects 
 
 ### Skills 💻
 
