@@ -1,15 +1,16 @@
 <h1 align='center'> <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Hi!👋 I`m Diana Quispe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<img align='right' src="https://media2.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif" width="230">
+<img align='right' src="https://media2.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif" width="190">
 
 <div align='center'>
   <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20">
-  <h2 align='center'><b>Frontend Developer </b><img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='50'></h2>
+</div>  
+  <h2 align='center'><b>Frontend Developer</b><img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='50'></h2>
 <p align="center">
 <samp>I`ve been learning to code as a passion, after switching careers. I started with HTML,CSS, & JAVASCRIPT,
 but have really found interesting what is behind the code, now working with FIREBASE and SPA.
  <hr> 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em></samp><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-   <br> <br>
+   <br> 
   <img src="https://komarev.com/ghpvc/?username=LadyDi3103" alt="https://github.com/LadyDi3103" />
   <a href="https://www.github.com/LadyDi3103" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>
@@ -29,8 +30,8 @@ src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-th
 <h3  align="center">📫 Reach me on</h3>
   <p align='center'>
    <a target="_blank" href="https://www.linkedin.com/in/lady-diana-quispe-aab12a92/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="mailto: chinamy2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+<a target="_blank" href="mailto:chinamy2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>&nbsp;
+
 
 <h3> Skills 💻</h3>
 
@@ -65,4 +66,5 @@ src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-th
    <br>
    <i>You miss 100% of the shots you don't take.</i>
    <br>
+  <hr>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
