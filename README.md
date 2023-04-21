@@ -1,11 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif width="30") I`m Diana Quispe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+Hi! I`m Diana Quispe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media2.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif" width="230">
-====================================================================================================================================
+==========================================================================================================
+<div align='center'>
+  <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20">
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/lady-diana-quispe-aab12a92"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="chinamy2004@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
 
-Frontend Developer
+## Frontend Developer
 -------------
 
-I\`ve been learning to code as a passion, after switching careers. I started with HTML,CSS, AND JAVASCRIPT, but have really found interesting what is behind the code, now working with FIREBASE and SPA.
+I\`ve been learning to code as a passion, after switching careers. I started with HTML,CSS, AND JAVASCRIPT,
+but have really found interesting what is behind the code, now working with FIREBASE and SPA.
+
+### About me
 
 * 🌍  I'm based in PERÚ-Lima
 * 🖥️  See my portfolio at [LadyDi3103](http://github.com/LadyDi3103?tab=repositories)
@@ -14,6 +24,7 @@ I\`ve been learning to code as a passion, after switching careers. I started wit
 * 🧠  I'm currently Learning FIREBASE, SPA and VITE.
 * 🤝  I'm open to collaborate on Interesting challenging Proyects 😄
 * ⚡  I love learning new technologies as a self-taught girl 🤓
+* 🔥  I really love the thrill of making what I want possible!
 
 ##### Profile Visits ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LadyDi3103)
 <a href="https://www.github.com/LadyDi3103" target="_blank" rel="noreferrer"><img
