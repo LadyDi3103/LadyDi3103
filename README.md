@@ -4,24 +4,24 @@
 <div align='center'>
   <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20">
   <p align='center'>
-    <a href="https://www.linkedin.com/in/lady-diana-quispe-aab12a92"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="chinamy2004@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-  </p>
+   <a target="_blank" href="https://www.linkedin.com/in/lady-diana-quispe-aab12a92/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:chinamy2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
   <p align="center">
+    #### Profile Visits
+    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LadyDi3103.LadyDi3103)
     <a href="https://www.github.com/LadyDi3103" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>&nbsp;&nbsp;
-    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LadyDi3103.LadyDi3103)
   </p>
 </div>
 
-<h2 align='center'>Frontend Developer  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='50'></h2>
-
+<h2 align='center'>Frontend Developer <img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='40'></h2>
+<h4 align="center">
 I\`ve been learning to code as a passion, after switching careers. I started with HTML,CSS, AND JAVASCRIPT,
 but have really found interesting what is behind the code, now working with FIREBASE and SPA.
---
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🙌</em>
+</h4>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🙌</em>
 
-<h3> About me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h3>
+<h3> About me <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h3>
 
 * 🌍  I'm based in PERÚ-Lima
 * 🖥️  See my portfolio at [LadyDi3103](http://github.com/LadyDi3103?tab=repositories)
@@ -64,7 +64,7 @@ but have really found interesting what is behind the code, now working with FIRE
 
 <div width="100%" align="center"><a href="https://github.com/LadyDi3103/DEV005-data-lovers" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LadyDi3103&repo=DEV005-data-lovers&title_color=ec4899&text_color=0891b2&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en" /></a></div>
 
-<hr>
+--
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
    <br>
