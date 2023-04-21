@@ -1,4 +1,4 @@
-<h1 align='center'>Hi! <img src="https://giphy.com/embed/l1BgQBLMt8U8moCs0/giphy.gif" width="50"> I`m Diana Quispe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align='center'>Hi!👋 I`m Diana Quispe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://media2.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif" width="230">
 
 <div align='center'>
@@ -6,19 +6,22 @@
   <p align='center'>
     <a href="https://www.linkedin.com/in/lady-diana-quispe-aab12a92"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="chinamy2004@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+  <p align="center">
     <a href="https://www.github.com/LadyDi3103" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>&nbsp;&nbsp;
-    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LadyDi3103)
+    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LadyDi3103.LadyDi3103)
   </p>
 </div>
 
-<h2 align='center'>Frontend Developer </h2>
+<h2 align='center'>Frontend Developer  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='50'></h2>
 
 I\`ve been learning to code as a passion, after switching careers. I started with HTML,CSS, AND JAVASCRIPT,
 but have really found interesting what is behind the code, now working with FIREBASE and SPA.
+--
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🙌</em>
 
-<h3> About me <img src="https://giphy.com/embed/SRrDPopnaczcjktWzF/giphy.gif" width="50"></h3>
+<h3> About me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h3>
 
 * 🌍  I'm based in PERÚ-Lima
 * 🖥️  See my portfolio at [LadyDi3103](http://github.com/LadyDi3103?tab=repositories)
@@ -29,7 +32,7 @@ but have really found interesting what is behind the code, now working with FIRE
 * ⚡  I love learning new technologies as a self-taught girl 🤓
 * 🔥  I really love the thrill of making what I want possible!!!
 
-### Skills
+### Skills 💻
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -53,14 +56,18 @@ but have really found interesting what is behind the code, now working with FIRE
 
 <a href="http://www.github.com/LadyDi3103"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LadyDi3103&stroke=0891b2&background=27272a&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
-<a href="http://www.github.com/LadyDi3103"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=LadyDi3103&bg_color=27272a&color=0891b2&line=facc15&point=0891b2&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/LadyDi3103" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadyDi3103&langs_count=10&title_color=ec4899&text_color=0891b2&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/LadyDi3103/DEV005-social-network" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LadyDi3103&repo=DEV005-social-network&title_color=ec4899&text_color=0891b2&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/LadyDi3103/DEV005-cipher" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LadyDi3103&repo=DEV005-cipher&title_color=ec4899&text_color=0891b2&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/LadyDi3103/DEV005-social-network" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LadyDi3103&repo=DEV005-social-network&title_color=ec4899&text_color=0891b2&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/LadyDi3103/DEV005-cipher" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LadyDi3103&repo=DEV005-cipher&title_color=ec4899&text_color=0891b2&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en" /></a></div>
 
 <div width="100%" align="center"><a href="https://github.com/LadyDi3103/DEV005-data-lovers" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LadyDi3103&repo=DEV005-data-lovers&title_color=ec4899&text_color=0891b2&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en" /></a></div>
+
+<hr>
+<p align="center">
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
+   <br>
+<br>
