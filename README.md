@@ -55,9 +55,6 @@ src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-th
 <a href="http://www.github.com/LadyDi3103"><img src="https://github-readme-stats.vercel.app/api?username=LadyDi3103&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=0891b2&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="LadyDi3103's GitHub stats" /></a>
 
 <a href="http://www.github.com/LadyDi3103"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LadyDi3103&stroke=0891b2&background=27272a&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
-
-<a href="https://github.com/LadyDi3103" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadyDi3103&langs_count=10&title_color=ec4899&text_color=0891b2&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <br>
 <hr>
 <p align="center">
