@@ -1,5 +1,5 @@
 <h1 align='center'> <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Hi!👋 I`m Diana Quispe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<img align='right' src="https://media2.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif" width="190">
+<img align='right' src="https://media2.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif" width="100">
 
 <div align='center'>
   <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20">
