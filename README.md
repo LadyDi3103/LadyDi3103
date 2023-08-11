@@ -1,9 +1,8 @@
 <h1 align='center'> <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Hi!👋 I`m Diana Quispe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<img align='right' src="https://media2.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif" width="100">
+<img align='right' src="https://www.canva.com/design/DAFg9HVZmhQ/view" width="100">
 
-<div align='center'>
-  <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20">
-</div>  
+<img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='50'>
+
   <h2 align='center'><b>Frontend Developer</b><img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='50'></h2>
 <p align="center">
 <samp>I`ve been learning to code as a passion, after switching careers. I started with HTML,CSS, & JAVASCRIPT,
@@ -20,8 +19,8 @@ src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-th
 
 * 🌍  I'm based in PERÚ-Lima
 * 🖥️  See my portfolio at [LadyDi3103](http://github.com/LadyDi3103?tab=repositories)
-* 🚀  I'm currently working on [Social Network](http://https://github.com/LadyDi3103/DEV005-social-network)
-* 🧠  I'm currently Learning FIREBASE, SPA and VITE.
+* 🚀  I'm currently working on [Burguer Queen Api-Client](https://github.com/LadyDi3103/DEV005-burger-queen-api-client)
+* 🧠  I'm currently Learning, WORDPRESS.
 * ⚡  I love learning new technologies as a self-taught girl
 * 🔥  I really love the thrill of making what I want possible!!!
 * 🤝  I'm open to collaborate on Interesting challenging Proyects 
@@ -46,14 +45,11 @@ src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-th
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 <hr>
-### Socials
+<H3>Socials</H3>
 
 <p align="left"> <a href="https://www.github.com/LadyDi3103" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 <hr>
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/LadyDi3103"><img src="https://github-readme-stats.vercel.app/api?username=LadyDi3103&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=0891b2&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="LadyDi3103's GitHub stats" /></a>
-
 <a href="http://www.github.com/LadyDi3103"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LadyDi3103&stroke=0891b2&background=27272a&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 <br>
 <hr>
