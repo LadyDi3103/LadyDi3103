@@ -7,8 +7,7 @@
 <samp>I embarked 🚣‍♀️ on a coding journey driven by passion. Starting with HTML, CSS, and JavaScrip,
 but delving into the intricacies behind the code truly captivated me. Currently, I'm immersed in the realms of Angular🅰️.</samp>
 
-<samp><em><b>My love for learning fuels my progress, and I thrive on connecting with diverse minds. If you're looking to connect, I'm always eager to say hello and learn together!</b></em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-</samp>
+My love for learning fuels my progress, and I thrive on connecting with diverse minds. If you're looking to connect, I'm always eager to say hello and learn together!
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=LadyDi3103" alt="https://github.com/LadyDi3103" align="center" />&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.github.com/LadyDi3103" target="_blank" rel="noreferrer"><img
@@ -45,19 +44,24 @@ src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-th
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
 
 <h3>🌎Socials</h3>
 
-<p align="left"> <a href="https://www.github.com/LadyDi3103" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/LadyDi3103" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/ladydianaquispe/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
 <h3><img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='50'>My GitHub Stats</h3>
 
-<a href="http://www.github.com/LadyDi3103"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LadyDi3103&stroke=0891b2&background=27272a&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LadyDi3103&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=LadyDi3103&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LadyDi3103&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LadyDi3103&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=LadyDi3103&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
