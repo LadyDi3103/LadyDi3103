@@ -1,7 +1,6 @@
 <h1 align='center'> <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Hi!👋 I`m Diana Quispe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<img align='right' src="https://www.canva.com/design/DAFg9HVZmhQ/view" width="100">
 
-![bannerCover]()
+![bannerCover](https://raw.githubusercontent.com/LadyDi3103/LadyDi3103/8b832a094b087f0c0acbc2b044063854a9a826d7/banner.png)
 
   <h2 align='center'><b>Front end Developer | Desarrolladora Web</b><img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='50'></h2>
 <p align="center">
