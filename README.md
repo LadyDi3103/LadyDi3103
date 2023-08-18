@@ -2,9 +2,9 @@
 
 ![bannerCover](https://raw.githubusercontent.com/LadyDi3103/LadyDi3103/8b832a094b087f0c0acbc2b044063854a9a826d7/banner.png)
 
-  <h2 align='center'><b>✨Front end Developer | Desarrolladora Web</b><img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='50'></h2>
+  <h2 align='center'><b>✨Front end Developer | Desarrolladora Web</b><img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='25'></h2>
 <p align="center">
-<samp>I embarked 🚣‍♀️ on a coding journey driven by passion. Starting with HTML, CSS, and JavaScrip,
+<samp>I embarked 🚤 on a coding journey driven by passion. Starting with HTML, CSS, and JavaScrip,
 but delving into the intricacies behind the code truly captivated me. Currently, I'm immersed in the realms of Angular🅰️.</samp>
 
 My love for learning fuels my progress, and I thrive on connecting with diverse minds. If you're looking to connect, I'm always eager to say hello and learn together!
@@ -36,26 +36,32 @@ src="https://img.shields.io/github/followers/LadyDi3103?logo=github&style=for-th
 
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 
 </p>
 
 <h3>🌎Socials</h3>
 
-<p align="left"> <a href="https://www.github.com/LadyDi3103" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<p align="left"> 
+<a href="https://discord.com/users/dianita3103" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/LadyDi3103" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/ladydianaquispe/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
 </p>
 
 <h3><img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='50'>My GitHub Stats</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=LadyDi3103&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LadyDi3103&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=LadyDi3103&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=LadyDi3103&theme=jolly&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LadyDi3103&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
